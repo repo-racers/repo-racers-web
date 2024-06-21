@@ -1,5 +1,6 @@
 # repo-racers-web
-The Repo Racers website
+
+## Tech Stack
 
 https://nextjs.org/
 
@@ -9,4 +10,4 @@ https://mdxjs.com/
 
 https://tailwindcss.com/
 
-
+https://www.typescriptlang.org/
