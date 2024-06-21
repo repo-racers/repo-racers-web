@@ -5,6 +5,8 @@ https://nextjs.org/
 
 https://nextra.site/
 
+https://mdxjs.com/
+
 https://tailwindcss.com/
 
 
