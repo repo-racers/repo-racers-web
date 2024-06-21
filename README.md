@@ -11,3 +11,9 @@ https://mdxjs.com/
 https://tailwindcss.com/
 
 https://www.typescriptlang.org/
+
+## SVG Editors
+
+https://editor.method.ac/
+
+https://jakearchibald.github.io/svgomg/
