@@ -34,7 +34,7 @@ export function Hero() {
                 <div className="text-center sm:mx-auto sm:w-10/12 lg:mr-auto lg:mt-0 lg:w-4/5">
                     <a href="#" className="w-fit mx-auto flex justify-between items-center transition duration-200 rounded-[--annonce-border-radius] p-1 group gap-2">
                         <span className="block text-m px-2 py-0.5 rounded-full text-white bg-green-600 hover:bg-green-700">New</span>
-                        <span className="text-xl font-medium text-gray-700 dark:text-gray-300 flex gap-6">
+                        <span className="text-xl font-medium text-white flex gap-6">
                             Introducing Elite Membership !
                             <div className="flex items-center -space-x-3 group-hover:-translate-x-1 transition-transform duration-300">
                                 <span className="w-2.5 translate-y-[-0.3px] -translate-x-px opacity-0 h-[1.5px] rounded bg-gray-950 dark:bg-white origin-left scale-x-0 transition duration-300 group-hover:opacity-100 group-hover:scale-x-100"></span>
