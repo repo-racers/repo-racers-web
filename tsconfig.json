@@ -15,7 +15,13 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+    // Add baseUrl and paths below
+    "baseUrl": ".", // This sets the base directory for non-relative module names
+    "paths": {
+      "@components/*": ["components/*"], // Adjust the path as necessary
+      "@utils/*": ["utils/*"] // Example for utils, add more as needed
+    }
   },
   "include": [
     "next-env.d.ts",
