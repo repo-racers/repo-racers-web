@@ -2,6 +2,8 @@
 
 ## Tech Stack
 
+https://react.dev/
+
 https://nextjs.org/
 
 https://nextra.site/
