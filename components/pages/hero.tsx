@@ -46,7 +46,7 @@ export function Hero() {
                     </a>
                     <h1 className="mt-8 text-wrap text-6xl font-semibold text-gray-950 text-white">Supercharging GitHub and Azure DevOps.</h1>
                     <p className="text-wrap mx-auto mt-8 max-w-2xl text-2xl text-white">100% open-source. From enterprise implementations to Copilot fine-tuning, we accelerate your projects with expert support and a commitment to quality.</p>
-                    <p className="text-base text-wrap mx-auto mt-6 max-w-3xl text-3xl text-white">Drive GitHub like you stole it!</p>
+                    <p className="text-wrap mx-auto mt-8 max-w-3xl text-3xl text-white">Drive GitHub like you stole it!</p>
                     <div className="mt-8 flex flex-col items-center justify-center gap-4">
                         <div
                             className="cursor-pointer rounded-lg bg-green-600 hover:bg-green-700 text-white px-4 py-2 transition duration-150 ease-in-out flex items-center justify-center gap-2 text-sm font-medium"
