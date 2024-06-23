@@ -18,7 +18,7 @@ export function Hero() {
     return (
         <section>
             <div className="h-screen flex flex-col justify-center items-center relative">
-                <div ref={sceneRef} className="w-screen h-screen flex justify-center items-center absolute inset-0 z-[-1] overflow-hidden">
+                <div ref={sceneRef} className="w-full h-screen flex justify-center items-center absolute inset-0 z-[-1] overflow-hidden">
                     <div data-depth="1.00" className="flex justify-center items-center">
                         <img src={homeBG.src} className="w-screen h-screen scale-125" alt="Background" />
                     </div>
@@ -30,7 +30,7 @@ export function Hero() {
                     </div>
                 </div>
             </div>
-            <div id="hero" className="flex flex-col items-start justify-center py-8 px-4 text-center lg:py-16 lg:px-12 absolute inset-0 overflow-auto w-screen h-screen">
+            <div id="hero" className="flex flex-col items-start justify-center py-8 px-4 text-center lg:py-16 lg:px-12 absolute inset-0 overflow-auto w-full h-screen">
                 <div className="text-center sm:mx-auto sm:w-10/12 lg:mr-auto lg:mt-0 lg:w-4/5">
                     <a href="#" className="w-fit mx-auto flex justify-between items-center transition duration-200 rounded-[--annonce-border-radius] p-1 group gap-2">
                         <span className="block text-m px-2 py-0.5 rounded-full text-white bg-green-600 hover:bg-green-700">New</span>
